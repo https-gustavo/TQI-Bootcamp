@@ -1,1 +1,1 @@
-# TQI---Bootcamp
+# TQI-Bootcamp
